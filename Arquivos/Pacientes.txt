@@ -1,0 +1,3 @@
+Nome-Idade-ID-Tipo da Doenca-Remédio-Tratamentonecessário-TratamentoRealizado-NomeMédicoresponsável-ID Médico responsável
+
+yuri-30-387-32764-Haloperidol-10-0-raquel-1384

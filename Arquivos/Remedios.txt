@@ -1,0 +1,5 @@
+Nome remédio-Quantidade
+
+Haloperidol-100
+Alprazolam-0
+Risperidona-960

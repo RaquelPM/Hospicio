@@ -1,0 +1,6 @@
+N° tratamento-Médico-Paciente-Tipo da Doença-Remedio-Dosagem
+
+1-raquel-marcelo-1-Risperidona-10
+2-raquel-marcelo-1-Risperidona-1000
+3-raquel-anand-1-Risperidona-1000
+4-derzu-marcelo-1-Risperidona-20
